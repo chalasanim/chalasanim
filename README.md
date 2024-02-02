@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Malleswari
 - 👀 I’m interested in QA and Automation
-- 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on Mobile Test Automation 
+- 🌱 I’m currently learning Azure
+- 💞️ I’m looking to collaborate on Testing and  Test Automation 
 - 📫 How to reach me 
 
 <!---
